@@ -1,0 +1,1 @@
+In the CIR task, vision and text features are extracted by vision and text encoders, respectively. Then, vision and text features are fused to get fused features that are expected to be similar to the target features, so we can calculate their similarity and retrieve images according to the sort of similarity.
